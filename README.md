@@ -1,4 +1,4 @@
-## DimDim Gourmet: O paraíso dos dimdims! - imersão dev com google gemini.
+## DimDim Gourmet: O paraíso dos dimdims! imersão dev com google gemini.
 
 **O que é esse projeto?**
 
